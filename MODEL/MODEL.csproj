@@ -253,6 +253,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\item.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
