@@ -253,8 +253,10 @@
     <Compile Include="Class1.cs" />
     <Compile Include="IManager\CategoryIManager.cs" />
     <Compile Include="IManager\ItemIManager.cs" />
+    <Compile Include="IManager\UserIManager.cs" />
     <Compile Include="Manager\CategoryManager.cs" />
     <Compile Include="Manager\ItemManager.cs" />
+    <Compile Include="Manager\UserManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
